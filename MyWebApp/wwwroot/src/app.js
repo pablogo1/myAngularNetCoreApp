@@ -1,5 +1,5 @@
 ﻿require('./lib');
-$ = require('jquery');
+//$ = require('jquery');
 
 document.getElementById("fillthis").innerHTML = getText();
 $("#fillWithJquery").html('Filled with JQuery!');
